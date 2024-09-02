@@ -5,7 +5,7 @@ In this paper, we study how the notion of Degrees of Freedom influences the Pure
 
 The general observation is if we reduce the degrees of freedom, we get better Optimization performance, and hence the title: Less is More
 
-PDF of the full paper available at:
+PDF of the full paper available at: https://rdcu.be/dIW3P
 
 What is Optimization (Video Explanation): https://www.youtube.com/watch?v=Gu7si5T0z_w
 
